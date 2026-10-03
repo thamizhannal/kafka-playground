@@ -126,7 +126,3 @@ docker exec -it kafka-local /opt/kafka/bin/kafka-console-consumer.sh `
 
 ```
 
-```
-
-<FollowUp label="Want me to add a docker-compose.yml file to simplify startup?" query="Can you create a docker-compose.yml file for this Apache Kafka setup?"/>
-
