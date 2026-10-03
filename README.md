@@ -1,4 +1,4 @@
-```markdown
+
 # Apache Kafka Setup Guide (Docker)
 
 A quickstart guide for running Apache Kafka locally using the official Apache Docker image, creating topics, producing events from a local file, and consuming events via PowerShell/Bash.
@@ -130,4 +130,3 @@ docker exec -it kafka-local /opt/kafka/bin/kafka-console-consumer.sh `
 
 <FollowUp label="Want me to add a docker-compose.yml file to simplify startup?" query="Can you create a docker-compose.yml file for this Apache Kafka setup?"/>
 
-```
